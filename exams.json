@@ -1,0 +1,44 @@
+[
+  {
+    "name": "JEE Main",
+    "type": "Engineering Entrance",
+    "level": "National",
+    "status": "Annual",
+    "tag": "Engineering"
+  },
+  {
+    "name": "NEET UG",
+    "type": "Medical Entrance",
+    "level": "National",
+    "status": "Annual",
+    "tag": "Medical"
+  },
+  {
+    "name": "CUET UG",
+    "type": "University Entrance",
+    "level": "National",
+    "status": "Annual",
+    "tag": "University"
+  },
+  {
+    "name": "NDA & NA",
+    "type": "Defence Entrance",
+    "level": "National",
+    "status": "Multiple cycles",
+    "tag": "Defence"
+  },
+  {
+    "name": "Assam HSLC",
+    "type": "Board Examination",
+    "level": "Assam",
+    "status": "Annual",
+    "tag": "Board"
+  },
+  {
+    "name": "Assam HS 1st Year",
+    "type": "Higher Secondary",
+    "level": "Assam",
+    "status": "Annual",
+    "tag": "Board"
+  }
+]

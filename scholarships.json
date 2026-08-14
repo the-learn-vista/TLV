@@ -1,0 +1,30 @@
+[
+  {
+    "name": "National Scholarship Portal",
+    "type": "Government",
+    "eligibility": "Students meeting the relevant scheme criteria",
+    "deadline": "Check official portal",
+    "tag": "Government"
+  },
+  {
+    "name": "PM-USP Scholarship",
+    "type": "Government",
+    "eligibility": "Eligible higher-education students under the scheme",
+    "deadline": "Check official notification",
+    "tag": "Higher Education"
+  },
+  {
+    "name": "State Scholarship Opportunities",
+    "type": "State",
+    "eligibility": "Assam students meeting individual scheme rules",
+    "deadline": "Varies by scheme",
+    "tag": "Assam"
+  },
+  {
+    "name": "Institutional Scholarships",
+    "type": "Institutional",
+    "eligibility": "Varies by institution",
+    "deadline": "Varies",
+    "tag": "Institutional"
+  }
+]
